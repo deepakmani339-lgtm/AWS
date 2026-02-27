@@ -1,11 +1,15 @@
 1. what is cloud?
  A) Cloud is the on-demand delivery of computing services over the internet, where you pay only for what you use.
 2. What is mean by public and private cloud?
- A)
+ A) A server that hosts web pages and makes them available to others across the Internet or an intranet 
+ A) A private server is a machine or virtual machine used as a server that is privately administrated. Colloquially, the term is nearly-exclusively used to refer to independently operated, unofficial servers for video games.
 3. why public is so popular ?
- A)
+ A) Public clouds offer virtually unlimited scalability. You can quickly increase or decrease resource usage based on demand without worrying about running out of capacity. You can deploy services closer to your end users from public cloud data centers worldwide. This offers better performance even at scale.
 4. Why AWS ?
- A)
+ A) Easy to use, fleible
+  * cost-effective
+  * Reliability
+  * secure and high performance
 5. Trends of people moving back to private why?
  A)
 6. Create a AWS account? 
